@@ -8,10 +8,10 @@ If you want to use the Helm Broker with all dependencies, try out [Kyma](https:/
 
 ### Table of contents
 
-- [Installation](https://github.com/kyma-project/helm-broker/blob/master/docs/installation.md)
-- [Usage](https://github.com/kyma-project/helm-broker/blob/master/docs/usage.md)
-- [Development](https://github.com/kyma-project/helm-broker/blob/master/docs/development.md)
-- [Releasing](https://github.com/kyma-project/helm-broker/blob/master/docs/releasing.md)
+- [Installation](https://github.com/kyma-project/helm-broker/blob/v1.1.0/docs/installation.md)
+- [Usage](https://github.com/kyma-project/helm-broker/blob/v1.1.0/docs/usage.md)
+- [Development](https://github.com/kyma-project/helm-broker/blob/v1.1.0/docs/development.md)
+- [Releasing](https://github.com/kyma-project/helm-broker/blob/v1.1.0/docs/releasing.md)
 
 ### Project structure
 

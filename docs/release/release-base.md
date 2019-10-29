@@ -3,7 +3,7 @@
 To install the Helm Broker in your cluster, use this command:
 
 ```
-helm install https://github.com/kyma-project/helm-broker/releases/download/__RELEASE_VERSION__/helm-broker-chart.tar.gz --wait
+helm install https://github.com/kyma-project/helm-broker/releases/download/v1.1.0/helm-broker-chart.tar.gz --wait
 ```
 
 Provide the latest Add Ons for the Helm Broker, by creating the `ClusterAddonsConfiguration`:
@@ -20,4 +20,4 @@ spec:
   - url: "https://github.com/kyma-project/addons/releases/download/latest/index.yaml"
 ```
 
-Learn more how to use the Helm Broker, by reading the [documentation](https://github.com/kyma-project/helm-broker/blob/__RELEASE_VERSION__/README.md#table-of-contents).
+Learn more how to use the Helm Broker, by reading the [documentation](https://github.com/kyma-project/helm-broker/blob/v1.1.0/README.md#table-of-contents).
