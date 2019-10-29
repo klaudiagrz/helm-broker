@@ -20,4 +20,4 @@ spec:
   - url: "https://github.com/kyma-project/addons/releases/download/latest/index.yaml"
 ```
 
-Learn more how to use the Helm Broker, by reading the [documentation](https://github.com/kyma-project/helm-broker/blob/__RELEASE_VERSION__/README.md#Documentation).
+Learn more how to use the Helm Broker, by reading the [documentation](https://github.com/kyma-project/helm-broker/blob/__RELEASE_VERSION__/README.md#table-of-contents).
